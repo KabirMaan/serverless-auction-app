@@ -13,6 +13,9 @@ async function createAuction(event, context) {
     title,
     status: "OPEN",
     createdAt: now.toISOString(),
+    highestBid: {
+      amount: 0,
+    },
   };
 
   try {
