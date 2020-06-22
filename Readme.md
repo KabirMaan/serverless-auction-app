@@ -30,7 +30,7 @@ Fill in the details and upload a photo.
 
 View currently active auctions
 
-<img src="https://github.com/KabirMaan/serverless-auction-app/blob/master/readme-images/auctions.jpg" width="1100" title="Auctions">
+<img src="https://github.com/KabirMaan/serverless-auction-app/blob/master/readme-images/auctons.jpg" width="1100" title="Auctions">
 
 ```
 
